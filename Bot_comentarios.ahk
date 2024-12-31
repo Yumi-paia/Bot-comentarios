@@ -1,14 +1,14 @@
 ﻿F12::
 Loop 100
 {
-   Loop 5
+   Loop 100
    {
 	Send {Click Left}
 	Sleep 500
-	Send 😂
+	Send Te amo ❤
 	Sleep 200
 	Send {Enter Down} {Enter Up}
-	Sleep 5000
+	Sleep 1
     }
 
 
